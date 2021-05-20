@@ -1,0 +1,3 @@
+﻿  main.c
+D:\SDL2\src\Dimension4\Solution\Dimension\main.c(67): warning C4716: 'SDL_main' : doit retourner une valeur
+  Dimension.vcxproj -> D:\SDL2\src\Dimension4\Solution\Debug\Dimension.exe
